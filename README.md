@@ -1,16 +1,25 @@
 # TRX Wallet Finder
-  #Features:
-   -Fast, very fast. On modern and old cumputer
-   -Easy to use
-   -Batteries included
+Trx Wallet Finder Using JavaScript
+  # Features:
+ -Fast, very fast. On modern and old cumputer
+ 
+ -Easy to use
+ 
+ -Batteries included
 
 # Usage:
  You can just start the compiled one on realese or u can rebuild it 
+# Note: 
+ If precompiled script didnt work, compile u own just follow the steps down 
 # To start script:
    -Install Node.js
+   
    -Open terminal in the folder where you downloaded this repository
+   
    -Run npm install
-   -Run node index.js
+   
+   -Run node tron.js
+   
 # Photo:
 ![image](https://github.com/user-attachments/assets/7cb1f993-8d9b-4317-9dc5-f8cf6600da7b)
 
