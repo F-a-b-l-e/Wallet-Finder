@@ -10,8 +10,8 @@ const path = require('path');
 const bip32 = BIP32Factory(ecc);
 
 // Telegram Bot Token and Chat ID
-const telegramToken = '6746587815:AAHBufzR0LXNq_n3bt6hlQU8k2c7ykLMD48';
-const chatId = '5379040566';
+const telegramToken = '';
+const chatId = '';
 const bot = new TelegramBot(telegramToken, { polling: false });
 
 // File to save mnemonics and balances
